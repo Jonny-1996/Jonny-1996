@@ -3,7 +3,7 @@
 
 ---
 
-![Snake animation](https://github.com/samandareo/samandareo/blob/main/snake.svg)
+![Snake animation](https://github.com/Jonny-1996/Enter/blob/main/snake.svg)
 
 
 [html]: https://www.w3schools.com/html/default.asp
